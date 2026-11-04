@@ -1,4 +1,3 @@
-
 # Ex.No:4 Create Your Own Content Providers to get Contacts details.
 
 
